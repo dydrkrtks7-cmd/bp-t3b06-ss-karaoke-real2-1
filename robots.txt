@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangam-karaoke-bar-note.go-hapjeong-club.xyz/sitemap.xml
